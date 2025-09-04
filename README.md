@@ -2,7 +2,6 @@
 
 Final-year Computing Science student with practical experience in full-stack development, including backend systems, microservices, and cloud-native applications using .NET, Python, and Java. Passionate about scalable software design, distributed systems, and clean code principles. I am also committed to ongoing learning and being aware of emerging technologies to meet the evolving demands of businesses and clients through effective IT solutions.
 
-•      Seeking internship/graduate or junior role opportunities in software development 
 
 🚀 Skills
 
