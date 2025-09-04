@@ -18,7 +18,7 @@ Final-year Computing Science student with practical experience in full-stack dev
 
  📂 Projects
 
-o         [Smart Trash Sorting Robot](https://github.com/username/smart-trash-robot) 
+o         [Smart Trash Sorting Robot](https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git) 
 
 o         [Solar Car Dashboard](https://github.com/username/solar-car) 
 
