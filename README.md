@@ -18,8 +18,8 @@ Final-year Computing Science student with practical experience in full-stack dev
 
  📂 Projects
 
-o         [Smart Trash Sorting Robot](https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git) 
+o         [Security Drone Monitoring-System](https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git) 
 
-o         [Solar Car Dashboard](https://github.com/username/solar-car) 
+o         [Ecommerce Microservices Shop](https://github.com/tshepangkagiso/Ecommerce-Microservices.git) 
 
 o         [Data Visualization for Invasive Species](https://github.com/username/data-viz-invasive) 
