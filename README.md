@@ -2,6 +2,7 @@
 
 Final-year Computing Science student with practical experience in full-stack development, including backend systems, microservices, and cloud-native applications using .NET, Python, and Java. Passionate about scalable software design, distributed systems, and clean code principles. I am also committed to ongoing learning and being aware of emerging technologies to meet the evolving demands of businesses and clients through effective IT solutions.
 
+##
 
 🚀 Skills
 
@@ -15,6 +16,7 @@ Final-year Computing Science student with practical experience in full-stack dev
 
 • Core Technical Skills: REST APIs, Microservices, Object-Oriented Programming, Data Structures & Algorithms, Cloud Native Architecture, System Architecture & Design, Machine Learning
 
+##
  📂 Projects
 
 o         [Security Drone Monitoring-System](https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git)    
