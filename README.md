@@ -19,8 +19,12 @@ Final-year Computing Science student with practical experience in full-stack dev
 
 o         [Security Drone Monitoring-System](https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git)    
 
-<img width="1898" height="917" alt="Image" src="https://github.com/user-attachments/assets/f441c68d-447f-4ff2-9252-3ee970b9c6ee" />  
+A full-stack surveillance system integrating DJI Tello drones with real-time video streaming, object detection (YOLO), and automated patrol routines. Designed for intelligent, autonomous monitoring with live feedback and threat alerts.
 ###
+<img width="1898" height="917" alt="Image" src="https://github.com/user-attachments/assets/f441c68d-447f-4ff2-9252-3ee970b9c6ee" />  
+
+##
+
 o         [CampusLearn Application](https://github.com/tshepangkagiso/CampusLearnApplication.git)                                                                                                                       
 
 CampusLearn™ is a comprehensive tutor-led learning platform designed to provide flexible, accessible academic support for Belgium Campus students. Built with a modern microservices architecture, it bridges the gap between traditional lectures and individualized academic support through a peer-to-peer tutoring model.
