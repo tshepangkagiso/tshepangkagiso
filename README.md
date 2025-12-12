@@ -7,7 +7,7 @@ Final-year Computing Science student with practical experience in full-stack dev
 
 • Languages: C#, Java, Python, JavaScript, HTML/CSS 
 
-• Frameworks & Libraries: ASP.NET Core, Node.js, Angular, Servlets, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+• Frameworks & Libraries: ASP.NET Core, Node.js, Angular, Razor Pages, Servlets, Java Server Pages, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
  
 • Tools & Databases: PostgreSQL, SQL Server, Git, GitHub, Docker, Kubernetes, Excel 
 
