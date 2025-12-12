@@ -18,12 +18,16 @@ Final-year Computing Science student with practical experience in full-stack dev
  📂 Projects
 
 o         [Security Drone Monitoring-System](https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git)                                                                                                    
-
+###
 o         [CampusLearn Application](https://github.com/tshepangkagiso/CampusLearnApplication.git)                                                                                                                       
 
 CampusLearn™ is a comprehensive tutor-led learning platform designed to provide flexible, accessible academic support for Belgium Campus students. Built with a modern microservices architecture, it bridges the gap between traditional lectures and individualized academic support through a peer-to-peer tutoring model.
+##
 <img width="600" height="700" alt="Image" src="https://github.com/user-attachments/assets/063d209c-017d-40b2-bfae-626b1bccf132" />
 
-                                                                                                            
-o         [BC-Student Wellness Management System](https://github.com/tshepangkagiso/BC-Student-Wellness-Management-System.git)                                                                                          
+###                                                                                                            
+o         [BC-Student Wellness Management System](https://github.com/tshepangkagiso/BC-Student-Wellness-Management-System.git)                                                                                       
+
+An integrated wellness management platform for students, combining a secure web-based authentication system with a robust desktop application for managing appointments, counselors, and student feedback.
+##
 <img width="1223" height="580" alt="Image" src="https://github.com/user-attachments/assets/34e7a08b-36a2-4087-ad13-39b5680c7724" />
