@@ -26,3 +26,4 @@ CampusLearn™ is a comprehensive tutor-led learning platform designed to provid
 
                                                                                                             
 o         [BC-Student Wellness Management System](https://github.com/tshepangkagiso/BC-Student-Wellness-Management-System.git)                                                                                          
+<img width="1223" height="580" alt="Image" src="https://github.com/user-attachments/assets/34e7a08b-36a2-4087-ad13-39b5680c7724" />
