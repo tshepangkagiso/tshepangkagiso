@@ -43,4 +43,8 @@ An integrated wellness management platform for students, combining a secure web-
 ###
 
 o         [Ecommerce Microservices System](https://github.com/tshepangkagiso/Ecommerce-Microservices.git)                                                                                                             
+A cloud-native e-commerce application built with modern microservices architecture using .NET .
+##
+<img width="1432" height="822" alt="Image" src="https://github.com/user-attachments/assets/f596ad90-c8d7-4a30-b65b-3eaec7396a59" />
 
+###
