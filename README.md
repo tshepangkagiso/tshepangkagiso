@@ -19,6 +19,8 @@ Final-year Computing Science student with practical experience in full-stack dev
 
 o         [Security Drone Monitoring-System](https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git) 
 
+o         [CampusLearn Application](https://github.com/tshepangkagiso/CampusLearnApplication.git)
+
 o         [Ecommerce Microservices Shop](https://github.com/tshepangkagiso/Ecommerce-Microservices.git) 
 
 o         [BC-Student Wellness Management System](https://github.com/tshepangkagiso/BC-Student-Wellness-Management-System.git)
