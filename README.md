@@ -1,20 +1,18 @@
 ## Hi there, I am Tshepang Mashigo
 
-Final-year Computing Science student with practical experience in full-stack development, including backend systems, microservices, and cloud-native applications using .NET, Python, and Java. Passionate about scalable software design, distributed systems, and clean code principles. I am also committed to ongoing learning and being aware of emerging technologies to meet the evolving demands of businesses and clients through effective IT solutions.
+Final-year Computing Science student with hands-on experience building backend and microservices-based systems using .NET, Java, and Python. Seekinga software engineering internship / junior role focused on backend or cloud-native development.
 
 ##
 
 🚀 Skills
 
-• Languages: C#, Java, Python, JavaScript, HTML/CSS 
+• Primary Stack: C#, .NET Core, Java, SQLServer
 
-• Frameworks & Libraries: ASP.NET Core, Angular, Java Server Pages Node.js, Servlets, Pandas, NumPy, Scikit-learn
+• Secondary Stack: Python, JavaScript, Angular, PostreSQL, HTML & CSS
  
-• Tools & Databases: PostgreSQL, SQL Server, Git, GitHub, Docker, Kubernetes, Excel 
+• Infrastructure & Tools: Git, Docker, RabbitMQ, Kubernetes 
 
-• Development Platforms: Visual Studio, Visual Studio Code, IntelliJ IDEA, Apache NetBeans, pgAdmin 4, SQL Server Management Studio (SSMS) 
-
-• Core Technical Skills: REST APIs, Microservices, Object-Oriented Programming, Data Structures & Algorithms, Cloud Native Architecture, System Architecture & Design, Machine Learning
+• Core Concepts: REST APIs, Microservices, OOP, Data Structures & Algorithms, Machine Learning, MVC, Cloud Native Architecture
 
 ##
  📂 Projects
