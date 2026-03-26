@@ -1,18 +1,28 @@
 ## Hi there, I am Tshepang Mashigo
 
-Final-year Computing Science student with hands-on experience building backend and microservices-based systems using .NET, Java, and Python. Seekinga software engineering internship / junior role focused on backend or cloud-native development.
+I’m an Honours Bachelor of Computing Science student with a specialization in Software Engineering, focused on building scalable, reliable software systems and solving complex engineering problems and I'm currently seeking a software engineering internship or junior role focused on backend or full-stack development, where I can contribute to building scalable, high-impact systems.
 
 ##
 
-🚀 Skills
+## 🚀 Skills
 
-• Primary Stack: C#, .NET Core, Java, SQLServer
+### 💻 Programming Languages
+ C#, Java, Python, JavaScript, TypeScript, HTML & CSS
 
-• Secondary Stack: Python, JavaScript, Angular, PostreSQL, HTML & CSS
- 
-• Infrastructure & Tools: Git, Docker, RabbitMQ, Kubernetes 
+### ⚙️ Frameworks & Libraries
+ ASP.NET Core, Angular, Flask, Node.js, Express.js
 
-• Core Concepts: REST APIs, Microservices, OOP, Data Structures & Algorithms, Machine Learning, MVC, Cloud Native Architecture
+### 🗄️ Databases
+ Microsoft SQL Server, PostgreSQL, SQLite, MongoDB
+
+### ☁️ Infrastructure & Tools
+ Git, Docker, RabbitMQ, Kubernetes, Microsoft Azure
+
+### 🧠 Core Concepts
+ REST APIs, Microservices, OOP, Data Structures & Algorithms, Cloud-Native Architecture, MVC, Machine Learning
+
+### 🤝 Soft Skills
+Collaboration, Communication, Adaptability
 
 ##
  📂 Projects
