@@ -10,7 +10,7 @@ I’m an Honours Bachelor of Computing Science student with a specialization in 
  C#, Java, Python, JavaScript, TypeScript, HTML & CSS
 
 ### ⚙️ Frameworks & Libraries
- ASP.NET Core, Angular, Flask, Node.js, Express.js
+ ASP.NET Core, Spring and SpringBoot Angular, Flask, Node.js, Express.js
 
 ### 🗄️ Databases
  Microsoft SQL Server, PostgreSQL, SQLite, MongoDB
