@@ -27,11 +27,12 @@ Collaboration, Communication, Adaptability
 ##
  📂 Projects
 
-o         [Security Drone Monitoring-System](https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git)    
+o         [iNova Bank - Online Banking System]([https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git](https://github.com/tshepangkagiso/OnlineBankingSystemApplication))    
 
-A full-stack surveillance system integrating DJI Tello drones with real-time video streaming, object detection (YOLO), and automated patrol routines. Designed for intelligent, autonomous monitoring with live feedback and threat alerts.
+iNOVA Bank is a full-stack Spring Boot, Angular and PostgreSQL digital banking platform that simulates core banking operations with enterprise-grade security and financial precision. The system supports two account types (Savings & Check) with distinct features including daily interest calculation, overdraft management, and comprehensive transaction auditing.
 ###
-<img width="1898" height="917" alt="Image" src="https://github.com/user-attachments/assets/f441c68d-447f-4ff2-9252-3ee970b9c6ee" />  
+![Home Top](https://github.com/tshepangkagiso/OnlineBankingSystemApplication/blob/master/screenshots/home%20top.png?raw=true)
+![Home Footer](https://github.com/tshepangkagiso/OnlineBankingSystemApplication/blob/master/screenshots/home%20footer.png?raw=true)  
 
 
 o         [Security Drone Monitoring-System](https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git)    
