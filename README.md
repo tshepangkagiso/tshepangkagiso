@@ -33,6 +33,13 @@ A full-stack surveillance system integrating DJI Tello drones with real-time vid
 ###
 <img width="1898" height="917" alt="Image" src="https://github.com/user-attachments/assets/f441c68d-447f-4ff2-9252-3ee970b9c6ee" />  
 
+
+o         [Security Drone Monitoring-System](https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git)    
+
+A full-stack surveillance system integrating DJI Tello drones with real-time video streaming, object detection (YOLO), and automated patrol routines. Designed for intelligent, autonomous monitoring with live feedback and threat alerts.
+###
+<img width="1898" height="917" alt="Image" src="https://github.com/user-attachments/assets/f441c68d-447f-4ff2-9252-3ee970b9c6ee" />  
+
 ##
 
 o         [CampusLearn Application](https://github.com/tshepangkagiso/CampusLearnApplication.git)                                                                                                                       
