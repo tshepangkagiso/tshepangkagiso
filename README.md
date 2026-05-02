@@ -27,9 +27,9 @@ Collaboration, Communication, Adaptability
 ##
  📂 Projects
 
-o         [iNova Bank - Online Banking System]([https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git](https://github.com/tshepangkagiso/OnlineBankingSystemApplication))    
+o         [iNova Bank - Cloud-Native Digital Banking Platform]([https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git](https://github.com/tshepangkagiso/OnlineBankingSystemApplication))    
 
-iNOVA Bank is a full-stack Spring Boot, Angular and PostgreSQL digital banking platform that simulates core banking operations with enterprise-grade security and financial precision. The system supports two account types (Savings & Check) with distinct features including daily interest calculation, overdraft management, and comprehensive transaction auditing.
+iNOVA Bank is a cloud-native, full-stack digital banking platform built with Spring Boot, Angular, and PostgreSQL. The system simulates core banking operations with enterprise-grade security and financial precision. It supports two account types (Savings & Cheque/Check) with distinct features including daily interest calculation, overdraft management, and comprehensive transaction auditing. The platform is fully deployed on Microsoft Azure using Docker containers, Azure Container Apps, and Azure Web Apps – making it a production-ready, scalable cloud application
 ###
 ![Home Top](https://github.com/tshepangkagiso/OnlineBankingSystemApplication/blob/master/screenshots/home%20top.png?raw=true)
 ![Home Footer](https://github.com/tshepangkagiso/OnlineBankingSystemApplication/blob/master/screenshots/home%20footer.png?raw=true)  
