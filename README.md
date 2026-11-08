@@ -1,31 +1,30 @@
-## Hi there, I am Tshepang Mashigo
+# Hi there, I am Tshepang Mashigo 👋
 
-I’m an Honours Bachelor of Computing Science student with a specialization in Software Engineering, focused on building scalable, reliable software systems and solving complex engineering problems and I'm currently seeking a software engineering internship or junior role focused on backend or full-stack development, where I can contribute to building scalable, high-impact systems.
+I'm a final-year Bachelor of Computing Science student specializing in Software Engineering, currently completing my Work-Integrated Learning as an IT Intern at Belgium Campus iTversity. I'm focused on building scalable, reliable software systems and solving complex engineering problems — and I'm open to junior software engineering roles focused on backend or full-stack development, where I can contribute to building scalable, high-impact systems.
+##
+
+## 💼 Work Experience
+
+**IT Intern — IT Department | Belgium Campus iTversity** · *July 2026 – Present*
+- Provide IT support and technical assistance, troubleshooting hardware, software, and system-related issues.
+- Contribute to software development projects, applying software engineering principles to design and build practical solutions.
+- Currently developing a web-based Online IT Support System using C#, ASP.NET Core, Angular, and TypeScript — implementing both frontend and backend functionality.
+##
+
+## 🚀 Technical Skills
+
+| Category | Skills & Technologies |
+|---|---|
+| 💻 **Programming Languages** | C#, Java, Python, JavaScript, TypeScript, HTML & CSS |
+| ⚙️ **Frameworks & Libraries** | ASP.NET Core, Spring and Spring Boot, Angular, Flask, Node.js, Express.js |
+| 🗄️ **Databases** | Microsoft SQL Server, PostgreSQL, SQLite, MongoDB |
+| ☁️ **Infrastructure & Tools** | Git, Docker, RabbitMQ, Kubernetes, Microsoft Azure |
+| 🧠 **Core Concepts** | REST APIs, Microservices, OOP, Data Structures & Algorithms, Cloud-Native Architecture, MVC, Machine Learning |
+| 🤝 **Soft Skills** | Collaboration, Communication, Adaptability |
 
 ##
 
-## 🚀 Skills
-
-### 💻 Programming Languages
- C#, Java, Python, JavaScript, TypeScript, HTML & CSS
-
-### ⚙️ Frameworks & Libraries
- ASP.NET Core, Spring and SpringBoot Angular, Flask, Node.js, Express.js
-
-### 🗄️ Databases
- Microsoft SQL Server, PostgreSQL, SQLite, MongoDB
-
-### ☁️ Infrastructure & Tools
- Git, Docker, RabbitMQ, Kubernetes, Microsoft Azure
-
-### 🧠 Core Concepts
- REST APIs, Microservices, OOP, Data Structures & Algorithms, Cloud-Native Architecture, MVC, Machine Learning
-
-### 🤝 Soft Skills
-Collaboration, Communication, Adaptability
-
-##
- 📂 Projects
+## 📂 Personal Software Projects
 
 o         [iNova Bank - Cloud-Native Digital Banking Platform]([https://github.com/tshepangkagiso/Security-Drone-Monitoring-System.git](https://github.com/tshepangkagiso/OnlineBankingSystemApplication))    
 
